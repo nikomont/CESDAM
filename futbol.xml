@@ -1,0 +1,41 @@
+
+<liga>
+  <nombre>Liga Española</nombre>
+  
+  <equipos>
+    <equipo>
+      <nombre>Real Madrid</nombre>
+      <ciudad>Madrid</ciudad>
+      <estadio>Santiago Bernabéu</estadio>
+    </equipo>
+    
+    <equipo>
+      <nombre>FC Barcelona</nombre>
+      <ciudad>Barcelona</ciudad>
+      <estadio>Camp Nou</estadio>
+    </equipo>
+  </equipos>
+
+  <jugadores>
+    <jugador>
+      <nombre>Ferran Torres</nombre>
+      <posicion>Delantero</posicion>
+      <equipo>FC Barcelona</equipo>
+    </jugador>
+    
+    <jugador>
+      <nombre>Nacho Fernandez</nombre>
+      <posicion>Defensa</posicion>
+      <equipo>Real Madrid</equipo>
+    </jugador>
+  </jugadores>
+  
+  <partidos>
+    <partido>
+      <equipo_local>Real Madrid</equipo_local>
+      <equipo_visitante>FC Barcelona</equipo_visitante>
+      <resultado>2-1</resultado>55
+      <fecha>2024-02-10</fecha>
+    </partido>
+  </partidos>
+</liga>
